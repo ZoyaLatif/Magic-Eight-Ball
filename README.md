@@ -1,2 +1,2 @@
 # Magic-Eight-Ball
-Magic Eight Ball from Codecademy
+Magic Eight Ball from Codecademy: JavaScript: control flow!
